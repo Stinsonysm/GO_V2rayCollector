@@ -502,11 +502,7 @@ go build -o v2ray-collector
 
 اگر کانال تلگرامی می‌شناسید که کانفیگ V2Ray منتشر می‌کند، لطفاً Pull Request ارسال کنید!
 
-## 📞 ارتباط با ما
 
-- **GitHub Issues**: [گزارش مشکل](https://github.com/mrvcoder/V2rayCollector/issues)
-- **Pull Requests**: [مشارکت کنید](https://github.com/mrvcoder/V2rayCollector/pulls)
-- **Telegram**: [@Vip_Security](https://t.me/Vip_Security)
 
 ## 📜 مجوز (License)
 
@@ -534,7 +530,6 @@ go build -o v2ray-collector
 
 اگر این پروژه را دوست دارید، یک ⭐ بدهید!
 
-[گزارش مشکل](https://github.com/mrvcoder/V2rayCollector/issues) · [درخواست ویژگی](https://github.com/mrvcoder/V2rayCollector/issues) · [مشاهده کد](https://github.com/mrvcoder/V2rayCollector)
 
 </div>
 
